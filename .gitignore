@@ -161,8 +161,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
+task[1].md
 ml-25m.zip
 ml-25m/
 movies_links/
 /task[1].md
-/ratings.json
